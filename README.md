@@ -37,3 +37,20 @@ Maçın sonunda, kazanın ya da kaybedin, herkesin "gg" (good game) yazması Zor
 Eğer takımınızda açıkça yeni bir oyuncu varsa (örneğin bombayı defuse etmek için kod arıyorsa), ona yardım etmek zorundasınızdır.
 (Yeni Oyuncunun Elinde AWP/AK/M4A1 Varsa "G" Tuşuna Basmasını Söyleyin.)
 
+### Bombanın Gönüllü Bekçisi
+Bombayı yerleştirdikten sonra, en az bir kişinin bombayı "gönüllü" olarak beklemesi beklenir. Bu, bombayı muhafaza etmek ve defuse edilmemesini sağlamak için kritik bir görevdir. Yerine Getirilmesi Zorunludur.
+
+### Keskin Nişancı Saygısı
+Eğer bir keskin nişancı düellosu yaşanıyorsa, bu mücadeleye başka bir oyuncunun karışması büyük bir saygısızlıktır. Çok Büyük Yaptırımlara Tabidir.
+
+### Kaybedilen Rauntta Yapılan Hataların İtirafı
+Bir raunt kaybedildiğinde, genellikle takımın en sessiz oyuncusunun, yapılan hataları kabullenip, gelecek planlarını anlatması zorunludur.
+
+### Takım Arkadaşının Silahını Kurtarma Görevi
+Eğer bir takım arkadaşınız ölürse ve değerli bir silahı varsa, bu silahı kurtarmak için her türlü riski almanız zorunludur. 
+
+### AWP'nin Kutsal Sorumluluğu
+AWP (Arctic Warfare Police) gibi güçlü bir keskin nişancı tüfeğini kullanmak büyük bir sorumluluktur. Eğer AWP'yi alırsanız, takımınızın size olan güvenini hak ettiğinizi göstermek zorundasınızdır.
+
+### Kazandığınızda Alçakgönüllülük, Kaybettiğinizde Saygı
+CS:GO, kazanmanın da kaybetmenin de bir parçasıdır. Kazandığınızda alçakgönüllü olmak, kaybettiğinizde ise rakibe saygı göstermek, topluluk içinde saygınlığınızı artırır. "gg wp" (good game, well played) mesajı, her iki durumda da demesi zorundadır.
