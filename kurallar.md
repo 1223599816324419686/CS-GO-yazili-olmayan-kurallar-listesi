@@ -54,3 +54,15 @@ AWP (Arctic Warfare Police) gibi güçlü bir keskin nişancı tüfeğini kullan
 
 ### Kazandığınızda Alçakgönüllülük, Kaybettiğinizde Saygı
 CS:GO, kazanmanın da kaybetmenin de bir parçasıdır. Kazandığınızda alçakgönüllü olmak, kaybettiğinizde ise rakibe saygı göstermek, topluluk içinde saygınlığınızı artırır. "gg wp" (good game, well played) mesajı, her iki durumda da demesi zorundadır.
+
+### Ateş Altında Geri Çekilme Yasası
+Takım olarak bir bölgeyi ele geçirmeye çalışırken ağır ateş altında kalındığında, en ön saflarda bulunan oyuncunun geri çekilme emri vermesi zorunludur.
+
+### Ekonomi Yönetimi Protokolü
+Her oyuncunun, takımın ekonomik durumunu göz önünde bulundurarak satın alma kararları alması zorunludur.
+
+### Takım İçi İletişim Etiketi
+Oyun sırasında, her oyuncunun sesli iletişimi açık ve saygılı bir şekilde kullanması zorunludur.
+
+### Strateji Oylamasında Birlik Kararı
+Takım olarak bir strateji belirlenirken, herkesin bu karara uyması zorunludur, itiraz Kabul edilmemektedir.
