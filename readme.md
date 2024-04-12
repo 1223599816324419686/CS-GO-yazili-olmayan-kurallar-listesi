@@ -66,3 +66,5 @@ Oyun sırasında, her oyuncunun sesli iletişimi açık ve saygılı bir şekild
 
 ### Strateji Oylamasında Birlik Kararı
 Takım olarak bir strateji belirlenirken, herkesin bu karara uyması zorunludur, itiraz Kabul edilmemektedir.
+
+Şuanda Kurallar Resmi Değildir. Ama Yakın Zamanda Resmi Olacaktır.
